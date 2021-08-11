@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://imgur.com/a/Cla0pdp" alt="Logo Blue Ridge" height="125" width="125">
+  <img src="https://github.com/endreumrb/BlueRidge-ReactJS/blob/main/src/images/logo.png" alt="Logo Blue Ridge" height="125" width="125">
   <br><br>
 </h1>
 
@@ -58,15 +58,15 @@ Todos os tipos de contribuições são muito bem-vindos e apreciadas!
 ## :sunglasses: **Autor**
 
 <a href="https://www.linkedin.com/in/endreu-benites/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQH5JiW6ui9c1A/profile-displayphoto-shrink_800_800/0/1627451596888?e=1634169600&v=beta&t=J_B8jXpqCBn9ygve-1tQRiS48LYJbGvV-BRAUlDjdL4" width="100px;" alt=""/>
+ <img style="border-radius: 50px" src="https://media-exp1.licdn.com/dms/image/C4D03AQH5JiW6ui9c1A/profile-displayphoto-shrink_800_800/0/1627451596888?e=1634169600&v=beta&t=J_B8jXpqCBn9ygve-1tQRiS48LYJbGvV-BRAUlDjdL4" width="100px;" alt=""/>
  <br />
  <sub><b>Endreu Benites</b></sub></a> <a href="https://www.linkedin.com/in/endreu-benites/" title="Linkedin">🚀</a>
 
 
 Feito com ❤️ por Endreu Benites 👋🏽 Entre em contato!
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/endreumrb)](https://github.com/endreumrb) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/endreu-benites/)](https://www.linkedin.com/in/endreu-benites/) 
-[![Personal Badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg=https://endreubenites.com/portfolio/)](https://endreubenites.com/portfolio/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/endreumrb)](https://github.com/endreumrb) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/endreu-benites/)](https://www.linkedin.com/in/endreu-benites/) 
+[![Personal Badge](https://img.shields.io/website-up-down-green-red/https/endreubenites.com/portfolio/)](https://endreubenites.com/portfolio/)
 
 ## :bell: **Licença**
 
