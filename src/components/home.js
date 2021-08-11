@@ -5,7 +5,7 @@ import logoMarca from '../images/marca_2.png';
 
 import React, { Fragment } from 'react';
 
-import { Cabecalho, GlobalStyle, Logo, Titulo, SubTitulo, Formulario, DescriçãoEntradas, SecaoCards, Card, ImagemCard, SecaoMarcas, ImagemMarca } from './styles'
+import { Cabecalho, GlobalStyle, Logo, Titulo, SubTitulo, Formulario, DescriçãoEntradas, SecaoCards, Card, ImagemCard, SecaoMarcas, ImagemMarca, SecaoFrase } from './styles'
 
 
 function Home() {
@@ -49,6 +49,13 @@ function Home() {
         <div><ImagemMarca src={logoMarca} /></div>
         <div><ImagemMarca src={logoMarca} /></div>
       </SecaoMarcas>
+      <SecaoFrase>
+        <div>
+          <h2>“Shopify is better than any other platform we’ve played with, and we’ve played with them all.”</h2>
+          <h3>Endreu Benites, Fundador da Blue Ridge Coffe</h3>
+          <button>Venha conhecer</button>
+        </div>
+      </SecaoFrase>
     </Fragment>
   );
 }

@@ -131,5 +131,54 @@ export const SecaoMarcas = styled(SecaoCards)`
 `;
 
 export const ImagemMarca = styled(ImagemCard)`
-  width: 60%;
+  width: 70%;
+  padding: 0 0.25rem;
+`;
+
+export const SecaoFrase = styled(SecaoCards)`
+
+  justify-content: center;
+  
+  div {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  h2 {
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  h3 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: .75rem;
+    margin-bottom: 4rem;
+  }
+
+  button {
+      width: 12rem;
+      background-color: #DFBA69;
+      height: 3rem;
+      padding: 0 1rem;
+      border-radius: 5px;
+      outline: none;
+      border: none;
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+      margin-bottom: 1rem;
+      font-size: .95rem;
+      
+      &:hover {
+        transition-duration: .35s;
+        background-color: #A2825C;
+      }
+  }
+
+  h2, h3, button {
+    color: #000000;
+  }
 `;
