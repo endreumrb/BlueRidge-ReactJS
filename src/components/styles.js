@@ -38,7 +38,6 @@ export const SubTitulo = styled.h2`
 `;
 
 export const Formulario = styled.form`
-
 .entradaEmail,
 .entradaEnviar {
   height: 3rem;
@@ -58,6 +57,7 @@ export const Formulario = styled.form`
 
   &:hover {
     border: 1px solid #111111;
+  }
   
   &:focus {
     border: 1px solid #111111;
@@ -68,7 +68,7 @@ export const Formulario = styled.form`
   width: 12rem;
   background-color: #DDDDDD;
   
-  &hover {
+  &:hover {
     border: 1px solid #111111;
     background-color: #CCCCCC;
   }
@@ -78,4 +78,41 @@ export const Formulario = styled.form`
 export const DescriçãoEntradas = styled.h3`
   font-weight: 100;
   margin-bottom: 4rem;
+`;
+
+export const SecaoCards = styled.section`
+  margin: 0 10rem;
+  display: flex;
+`;
+
+export const ImagemCard = styled.img`
+  margin: 1rem 0;
+  width: 15%;
+  user-select: none;
+`;
+
+export const Card = styled.div`
+  display: flex;
+  margin: 1.5rem .5rem;
+  border: 1px solid #DDDDDD;
+  padding: 0.5rem;
+  flex-direction: column;
+  flex: 1;
+
+  div {
+    text-align: center;
+  }
+
+  h4 {
+    display: inline-block;
+    height: 5rem;
+  }
+
+  p {
+    margin: .5rem 0;
+  }
+
+  h4, p {
+    color: #000000;
+  }
 `;
