@@ -32,7 +32,7 @@
 
 <p align="center">
   <kbd>
-    <img width="500" style="border-radius: 5px" src="https://imgur.com/a/Xd20hx6" alt="Intro">
+    <img width="500" style="border-radius: 5px" src="https://github.com/endreumrb/BlueRidge-ReactJS/blob/main/src/images/tela_Inicial.jpg" alt="Intro">
   </kbd>
 </p>
 
