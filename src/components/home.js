@@ -1,10 +1,11 @@
 import logo from '../images/logo.png';
 import cafe from '../images/cafe.jpg';
 import copo from '../images/copo_cafe.png';
+import logoMarca from '../images/marca_2.png';
 
 import React, { Fragment } from 'react';
 
-import { Cabecalho, GlobalStyle, Logo, Titulo, SubTitulo, Formulario, DescriçãoEntradas, SecaoCards, Card, ImagemCard } from './styles'
+import { Cabecalho, GlobalStyle, Logo, Titulo, SubTitulo, Formulario, DescriçãoEntradas, SecaoCards, Card, ImagemCard, SecaoMarcas, ImagemMarca } from './styles'
 
 
 function Home() {
@@ -37,10 +38,17 @@ function Home() {
         <Card>
           <div><ImagemCard src={copo} /></div>
           <h4>Fórum mundial busca renda próspera e de bem-estar a produtores de café</h4>
-          <p>“Buscaremos a definição sobre o conceito de prosperidade para produtores de café e quais ações e cooperações internacionais são necessárias para, de fato, se alcançá-la", explica Vanusia Nogueira, representante do Brasil no comitê internacional do WCPF.</p>
+          <p>“Buscaremos a definição sobre o conceito de prosperidade para produtores de café e quais ações e cooperações internacionais são necessárias para, de fato, se alcançá-la".</p>
         </Card>
       </SecaoCards>
-
+      <SecaoMarcas>
+        <div><ImagemMarca src={logoMarca} /></div>
+        <div><ImagemMarca src={logoMarca} /></div>
+        <div><ImagemMarca src={logoMarca} /></div>
+        <div><ImagemMarca src={logoMarca} /></div>
+        <div><ImagemMarca src={logoMarca} /></div>
+        <div><ImagemMarca src={logoMarca} /></div>
+      </SecaoMarcas>
     </Fragment>
   );
 }

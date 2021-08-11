@@ -81,7 +81,7 @@ export const DescriçãoEntradas = styled.h3`
 `;
 
 export const SecaoCards = styled.section`
-  margin: 0 10rem;
+  margin: 4rem 10rem 7rem 10rem;
   display: flex;
 `;
 
@@ -115,4 +115,21 @@ export const Card = styled.div`
   h4, p {
     color: #000000;
   }
+`;
+
+export const SecaoMarcas = styled(SecaoCards)`
+  border-top: 1px solid #DDDDDD;
+  border-bottom: 1px solid #DDDDDD;
+  padding: 1rem .5rem;
+  margin-bottom: 5rem;
+
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+`;
+
+export const ImagemMarca = styled(ImagemCard)`
+  width: 60%;
 `;

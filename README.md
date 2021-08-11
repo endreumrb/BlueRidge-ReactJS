@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/endreumrb/BlueRidge-ReactJS/blob/main/src/images/logo.png" alt="Logo Blue Ridge" height="125" width="125">
+  <img src="https://github.com/endreumrb/BlueRidge-ReactJS/blob/main/src/images/logo.png" alt="Logo Blue Ridge" width="125">
   <br><br>
 </h1>
 
@@ -9,21 +9,20 @@
 <p align="center"><i>“Life is like riding a bicycle. To keep your balance you must keep moving.” — Albert Einstein</i></p>
 
 <p align="center">
+ <a href="#blush-objetivo">Objetivo</a> •
+ <a href="#zap-tecnologias">Tecnologias</a> • 
+ <a href="#handshake-contribuição">Contribuição</a> • 
+ <a href="#sunglasses-autor">Autor</a> • 
+ <a href="#bell-Licença">Licença</a>
+</p>
+
+<p align="center">
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/progress-30%25-brightgreen.svg" alt="PRs Welcome">
   </a>
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="PRs Welcome">
   </a>
-</p>
-
-<p align="center">
- <a href="#blush-objetivo">Objetivo</a> •
- <a href="#zap-tech-tecnologias">Tecnologias</a> • 
- <a href="#handshake-contribuição">Contribuição</a> • 
- <a href="#sunglasses-autor">Autor</a> • 
- <a href="#Licença">Licença</a>
- 
 </p>
 
 <h4 align="center"> 
@@ -60,13 +59,17 @@ Todos os tipos de contribuições são muito bem-vindos e apreciadas!
 <a href="https://www.linkedin.com/in/endreu-benites/">
  <img style="border-radius: 50px" src="https://media-exp1.licdn.com/dms/image/C4D03AQH5JiW6ui9c1A/profile-displayphoto-shrink_800_800/0/1627451596888?e=1634169600&v=beta&t=J_B8jXpqCBn9ygve-1tQRiS48LYJbGvV-BRAUlDjdL4" width="100px;" alt=""/>
  <br />
- <sub><b>Endreu Benites</b></sub></a> <a href="https://www.linkedin.com/in/endreu-benites/" title="Linkedin">🚀</a>
-
+ <sub><b>Endreu Benites</b></sub></a> <a href="https://www.linkedin.com/in/endreu-benites/" title="Linkedin">🚀
+ <br /><br />
+</a>
 
 Feito com ❤️ por Endreu Benites 👋🏽 Entre em contato!
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/endreumrb)](https://github.com/endreumrb) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/endreu-benites/)](https://www.linkedin.com/in/endreu-benites/) 
-[![Personal Badge](https://img.shields.io/website-up-down-green-red/https/endreubenites.com/portfolio/)](https://endreubenites.com/portfolio/)
+<br />
+
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/endreumrb)](https://github.com/endreumrb) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/endreu-benites/)](https://www.linkedin.com/in/endreu-benites/) 
+[![Personal Badge](https://img.shields.io/badge/Blog-endreubenites.com-black)](https://endreubenites.com/portfolio/)
 
 ## :bell: **Licença**
 
