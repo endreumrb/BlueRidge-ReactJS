@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    color: #ffffff;
+    color: #000000;
   }
 `;
 
@@ -20,7 +20,7 @@ export const Cabecalho = styled.header`
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(${(props) => props.imgUrl})
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(${(props) => props.imgUrl});
 `;
 
 export const Logo = styled.img`
@@ -30,11 +30,13 @@ export const Logo = styled.img`
 
 export const Titulo = styled.h1`
   margin-bottom: 1rem;
+  color: #FFFFFF;
 `;
 
 export const SubTitulo = styled.h2`
   font-weight: 200;
   margin-bottom: 5rem;
+  color: #FFFFFF;
 `;
 
 export const Formulario = styled.form`
@@ -78,6 +80,7 @@ export const Formulario = styled.form`
 export const DescriçãoEntradas = styled.h3`
   font-weight: 100;
   margin-bottom: 4rem;
+  color: #FFFFFF;
 `;
 
 export const SecaoCards = styled.section`
@@ -110,10 +113,6 @@ export const Card = styled.div`
 
   p {
     margin: .5rem 0;
-  }
-
-  h4, p {
-    color: #000000;
   }
 `;
 
@@ -162,7 +161,7 @@ export const SecaoFrase = styled(SecaoCards)`
 
   button {
       width: 12rem;
-      background-color: #DFBA69;
+      background-color: #E0B34F;
       height: 3rem;
       padding: 0 1rem;
       border-radius: 5px;
@@ -174,11 +173,22 @@ export const SecaoFrase = styled(SecaoCards)`
       
       &:hover {
         transition-duration: .35s;
-        background-color: #A2825C;
+        background-color: #BD9235;
       }
   }
-
-  h2, h3, button {
-    color: #000000;
-  }
 `;
+
+export const Rodape = styled.footer`
+
+  margin: 0 10rem 0.25rem 10rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+
+  a {
+    margin-left: 1rem;
+    text-decoration: none;
+    font-weight: 400;
+  }
+
+`

@@ -5,7 +5,7 @@ import logoMarca from '../images/marca_2.png';
 
 import React, { Fragment } from 'react';
 
-import { Cabecalho, GlobalStyle, Logo, Titulo, SubTitulo, Formulario, DescriçãoEntradas, SecaoCards, Card, ImagemCard, SecaoMarcas, ImagemMarca, SecaoFrase } from './styles'
+import { Cabecalho, GlobalStyle, Logo, Titulo, SubTitulo, Formulario, DescriçãoEntradas, SecaoCards, Card, ImagemCard, SecaoMarcas, ImagemMarca, SecaoFrase, Rodape } from './styles'
 
 
 function Home() {
@@ -56,6 +56,10 @@ function Home() {
           <button>Venha conhecer</button>
         </div>
       </SecaoFrase>
+      <Rodape>
+        <a href="home">Termos de Serviço</a>
+        <a href="home">Política de Uso</a>
+      </Rodape>
     </Fragment>
   );
 }
