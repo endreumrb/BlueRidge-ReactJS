@@ -51,7 +51,7 @@ function Home() {
       </SecaoMarcas>
       <SecaoFrase>
         <div>
-          <h2>“Shopify is better than any other platform we’ve played with, and we’ve played with them all.”</h2>
+          <h2>“Blue Ridge Coffee é a melhor do mercado, isso pois já provamos dos melhores.”</h2>
           <h3>Endreu Benites, Fundador da Blue Ridge Coffe</h3>
           <button>Venha conhecer</button>
         </div>
