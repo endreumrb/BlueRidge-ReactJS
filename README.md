@@ -31,7 +31,8 @@
 
 <p align="center">
   <kbd>
-    <img width="500" style="border-radius: 5px" src="https://github.com/endreumrb/BlueRidge-ReactJS/blob/main/src/images/tela_Inicial.jpg" alt="Intro">
+    <img width="400" style="padding-right: 5px; border-radius: 5px" src="https://github.com/endreumrb/BlueRidge-ReactJS/blob/main/src/images/tela_Inicial.jpg" alt="Intro">
+    <img width="400" style="border-radius: 5px" src="https://github.com/endreumrb/BlueRidge-ReactJS/blob/main/src/images/tela_fim.jpg" alt="Fim">
   </kbd>
 </p>
 
